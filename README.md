@@ -35,4 +35,9 @@ The Student Data Manager is a Java command-line application designed for educati
 - Generate your .csv files or adjust existing ones in the main directory. Ensure to update the code as needed.
   
 ## Screenshots
-<to add>
+**Program Startup**
+![image](https://github.com/lorraine-low/Student-Data-Manager/assets/125891002/e43522c1-50d6-45e6-bf4c-ed1a905435fc)
+
+
+
+
