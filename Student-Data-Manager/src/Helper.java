@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * @author Lorraine Low
- * @version 4.30.0
+ * @version Eclipse IDE 2023-12 (4.30.0)
  */
 
 public class Helper {
