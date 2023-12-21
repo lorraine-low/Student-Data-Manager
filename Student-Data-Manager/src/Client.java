@@ -189,8 +189,8 @@ public class Client {
 	 */
 	private static void displayAllInfo() {
 		for (Student student : studentList) {
-			student.reportGrade();
 			Helper.println("");
+			student.reportGrade();
 		}
 
 	}
