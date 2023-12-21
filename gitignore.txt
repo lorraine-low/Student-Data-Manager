@@ -1,0 +1,27 @@
+# IDE-specific files and directories
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+/.settings/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+/target/
+/lib/
+
+# JavaDoc-generated files
+/doc/
+/target/site/apidocs/

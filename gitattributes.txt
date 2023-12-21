@@ -1,0 +1,17 @@
+# Set text attribute for Java source files
+*.java text
+
+# Set text attribute for properties files
+*.properties text
+
+# Set binary attribute for compiled class files
+*.class binary
+
+# Set binary attribute for JAR files
+*.jar binary
+
+# Set binary attribute for WAR files
+*.war binary
+
+# Exclude html files from linguistic analysis
+*.html linguist-vendored
