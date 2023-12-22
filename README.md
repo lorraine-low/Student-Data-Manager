@@ -1,7 +1,7 @@
 # Student-Data-Manager (Java)
 
 ## Disclaimer
-All the information provided in this web application is purely fictional and intended for demonstration purposes only. Any resemblance to real persons, living or dead, or actual events is purely coincidental.
+All the information provided in this application is purely fictional and intended for demonstration purposes only. Any resemblance to real persons, living or dead, or actual events is purely coincidental.
 
 ## Overview
 The Student Data Manager is a Java command-line application designed for educational use. It showcases fundemental data management operations for student records.
