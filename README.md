@@ -1,4 +1,4 @@
-# Student-Data-Manager (Java)
+# Student-Data-Manager (Java Console Application)
 
 ## Disclaimer
 All the information provided in this application is purely fictional and intended for demonstration purposes only. Any resemblance to real persons, living or dead, or actual events is purely coincidental.
